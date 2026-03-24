@@ -240,6 +240,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Western Sahara](#western-sahara)
 - [Yemen](#yemen)
 - [Zambia](#zambia)
+- [Zanzibar](#zanzibar)
 - [Zimbabwe](#zimbabwe)
 - [Resources containing multi-country links](#resources-containing-multi-country-links)
 
@@ -564,6 +565,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## Brazil
 
 - [OSINT Guru / Brazil](https://osintguru.azurewebsites.net/country?id=br)
+- [OSINT of Brazil](https://unishka.substack.com/p/osint-of-brazil)
 - [World / Search in Bookmarks "Brazil"](https://start.me/p/lLaoXv/07-world)
 - [OSINT RESOURCES BY COUNTRY / BRAZIL](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT Tools for South American Countries / Brazil](https://cyberint.uk/osint_tools/south_america/#brazil)
@@ -1157,6 +1159,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## Hungary
 
 - [OSINT Guru / Hungary](https://osintguru.azurewebsites.net/country?id=hu)
+- [Hun-OSINT](https://start.me/p/kxGLzd/hun-o)
 - [World / Search in Bookmarks "Hungary"](https://start.me/p/lLaoXv/07-world)
 - [OSINT RESOURCES BY COUNTRY / HUNGARY](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT Tools for European Countries / Hungary](https://cyberint.uk/osint_tools/europe/#hungary)
@@ -1406,6 +1409,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## Lithuania
 
 - [OSINT Guru / Lithuania](https://osintguru.azurewebsites.net/country?id=lt)
+- [OSINT of Lithuania](https://unishka.substack.com/p/osint-of-lithuania)
 - [OSINT Tools for European Countries / Lithuania](https://cyberint.uk/osint_tools/europe/#lithuania)
 - [OSINT-Tools-Lithuania](https://github.com/paulpogoda/OSINT-Tools-Lithuania)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
@@ -1522,6 +1526,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## Mexico
 
 - [OSINT Guru / Mexico](https://osintguru.azurewebsites.net/country?id=mx)
+- [Mexican OSINT](https://cartelwatch.net/resources/mexican-osint/)
 - [World / Search in Bookmarks "Mexico"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for North American Countries / Mexico](https://cyberint.uk/osint_tools/north_america/#mexico)
 - [Mexico-Focused OSINT Tools and Techniques](https://osint2h22v.substack.com/p/mexico-focused-osint-tools-and-techniques)
@@ -2318,6 +2323,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## United Kingdom
 
 - [OSINT Guru / United Kingdom](https://osintguru.azurewebsites.net/country?id=gb)
+- [OSINT of the United Kingdom](https://unishka.substack.com/p/osint-of-united-kingdom)
 - [World / Search in Bookmarks "UK"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for European Countries / United Kingdom](https://cyberint.uk/osint_tools/europe/#united-kingdom)
 - [OSINT UK Resources](https://start.me/p/gyq0Rz/united-kingdom)
@@ -2434,6 +2440,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Worldwide OSINT tools map - Zambia](https://cybdetective.com/osintmap/)
 - [Catalogue of Research Databases](https://id.occrp.org/databases/)
 - [SAWEST Public Sources 2024](https://sawest.eu/)
+
+## Zanzibar
+
+- [OSINT of Zanzibar](https://unishka.substack.com/p/osint-of-zanzibar)
 
 ## Zimbabwe
 
