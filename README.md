@@ -1028,6 +1028,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## Georgia
 
 - [OSINT Guru / Georgia](https://osintguru.azurewebsites.net/country?id=ge)
+- [OSINT of Georgia](https://unishka.substack.com/p/osint-of-georgia)
 - [World / Search in Bookmarks "Georgia"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for Asian Countries / Georgia](https://cyberint.uk/osint_tools/asia/#georgia)
 - [OSINT RESOURCES BY COUNTRY / GEORGIA](https://start.me/p/kvAQBk/osint-resources-by-country)
@@ -1069,6 +1070,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## Greece
 
 - [OSINT Guru / Greece](https://osintguru.azurewebsites.net/country?id=gr)
+- [OSINT of Greece](https://unishka.substack.com/p/osint-of-greece)
 - [World / Search in Bookmarks "Greece"](https://start.me/p/lLaoXv/07-world)
 - [OSINT RESOURCES BY COUNTRY / GREECE](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT Tools for European Countries / Greece](https://cyberint.uk/osint_tools/europe/#greece)
@@ -1079,6 +1081,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Greenland
+
 - [OSINT Guru / Greenland](https://osintguru.azurewebsites.net/country?id=gl)
 - [OSINT RESOURCES BY COUNTRY / GREENLAND](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT Tools for North American Countries / Greenland (Kingdom of Denmark)](https://cyberint.uk/osint_tools/north_america/#greenland-kingdom-of-denmark)
