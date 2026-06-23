@@ -720,6 +720,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT China Resources](https://start.me/p/GE7JQb/osint)
 - [OSINT China](https://start.me/p/7kLY9R/osint-chine)
 - [OSINT-Tools-China | GitHub](https://github.com/paulpogoda/OSINT-Tools-China)
+- [China Web OSINT Search Dorks](https://github.com/ArgeliusLabs/chinese_osint_search_dorks/blob/main/guide.md)
 - [Worldwide OSINT tools map - China](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [Catalogue of Research Databases](https://id.occrp.org/databases/)
@@ -993,6 +994,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT-Tools-France](https://github.com/paulpogoda/OSINT-Tools-France)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - France](https://cybdetective.com/osintmap/)
+- [OSINT Tools France](https://github.com/Provereno-Media/OSINT-Tools-France)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [intellitoolz](https://github.com/asharbinkhalil/intellitoolz?tab=readme-ov-file#country-specific-registers)
 - [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
@@ -1777,9 +1779,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## Panama
 
 - [OSINT Guru / Panama](https://osintguru.azurewebsites.net/country?id=pa)
-- [World / Search in Bookmarks "Panama"](https://start.me/p/lLaoXv/07-world)
+- [OSINT of Panama](https://unishka.substack.com/p/osint-of-panama)
 - [OSINT RESOURCES BY COUNTRY / PANAMA](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT Tools for North American Countries / Panama](https://cyberint.uk/osint_tools/north_america/#panama)
+- [World / Search in Bookmarks "Panama"](https://start.me/p/lLaoXv/07-world)
 - [Worldwide OSINT tools map - Panama](https://cybdetective.com/osintmap/)
 - [Catalogue of Research Databases](https://id.occrp.org/databases/)
 - [SAWEST Public Sources 2024](https://sawest.eu/)
