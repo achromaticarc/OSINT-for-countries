@@ -992,6 +992,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for European Countries / France](https://cyberint.uk/osint_tools/europe/#france)
 - [OSINT HUB FR](https://github.com/Anadema/OSINT-HUB-FR)
 - [OSINT-Tools-France](https://github.com/paulpogoda/OSINT-Tools-France)
+- [VeriSources - Guides OSINT FR & verification d'entreprise/personne](https://verisources.fr/guides)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - France](https://cybdetective.com/osintmap/)
 - [OSINT Tools France](https://github.com/Provereno-Media/OSINT-Tools-France)
