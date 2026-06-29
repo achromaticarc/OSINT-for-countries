@@ -1461,6 +1461,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## Malaysia
 
+- [OSINT of Malaysia](https://unishka.substack.com/p/osint-of-malaysia)
 - [OSINT Guru / Malaysia](https://osintguru.azurewebsites.net/country?id=my)
 - [World / Search in Bookmarks "Malaysia"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for Asian Countries / Malaysia](https://cyberint.uk/osint_tools/asia/#malaysia)
